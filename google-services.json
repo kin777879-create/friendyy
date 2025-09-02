@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021052597627",
+    "project_id": "friendy-app-b9638",
+    "storage_bucket": "friendy-app-b9638.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021052597627:android:d87951814bd4dd4d9e39de",
+        "android_client_info": {
+          "package_name": "Com.dragons.friendy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNNn0xGYfOpsTnt015Yc-XrTUAm1DRXeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
